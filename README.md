@@ -1,5 +1,7 @@
 # D3 Homework - Data Journalism and D3
 
+https://deepmalaagarwal.github.io/D3-Challenge/D3_data_journalism/
+
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
 ## Background
